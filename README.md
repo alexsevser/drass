@@ -1,2 +1,15 @@
-## drass
-# 一个更好的[（dress仓库）](https://github.com/akkarinnw/Dress)
+# drass
+### 更好的[dress仓库](https://github.com/akkarinnw/Dress)
+# 规则
+1. 不能上传无码的不能看的部位，或非常 恶 趣 味 的东西！适量的讨论
+2. 遵守国家法律，请绿色上网，不得违反法律，详见[这里](https://www.gov.cn/zhengce/zhengceku/2020-11/25/content_5564110.htm)！
+3. 不可以恶意删除，上传，修改其它人正常的图片，视频，网站！
+4. 请勿恶意在lssues刷屏！
+5. 请勿外传
+6. 如阅读后因为不遵守规则发生任何事情，站主不负责任何责任
+# 一些问题
+## 我看不到库里我心仪的图片？
+### 可以打开仓库的网站：
+## 上传太高清的大图片传不上去怎么办
+## 请见[这里](https://b23.tv/vS5tMr2)！
+
